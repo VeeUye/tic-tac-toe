@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It was created to learn the fundamentals of React. This README will be updated as the project progresses.
+It was created to learn the fundamentals of React from the [official tutorial](https://reactjs.org/tutorial/tutorial.html). This README will be updated as the project progresses.
 
 ## Features
 
